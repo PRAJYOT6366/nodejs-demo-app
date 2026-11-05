@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-demo-app",
+  "version": "1.0.0",
+  "description": "Sample Node.js app for a GitHub Actions CI/CD internship task",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
